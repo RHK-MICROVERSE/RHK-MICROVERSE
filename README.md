@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Rassel Hassan Kadir</h1>
+<h1 align="left">Hi 👋, I'm Rassel Hassan Kadir&nbsp;&nbsp; <img src="https://media.giphy.com/media/wcC8VA7quA6G9pA8Iy/giphy.gif" width="100"></h1>
 <h3 align="center">A passionate Remote Full-Stack web developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="./images/Animated-Image.gif"
 
@@ -12,24 +12,6 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uczoeendh8_ffhyyeeqws4ja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uczoeendh8_ffhyyeeqws4ja" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/9rhktrading" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/9rhktrading" height="30" width="40" /></a>
 </p>
-
-- 🔭 I’m currently working on [To Do List](https://github.com/RHK-MICROVERSE/To-Do-List/dist)
-
-- 🌱 I’m currently **A full Time Student in Microverse**
-
-- 👯 I’m looking to collaborate on [Web Development](https://rhk-microverse.github.io/book-awesome-module/)
-
-<!-- - 🤝 I’m looking for help with **To bridge Website and AI** -->
-
-- 👨‍💻 All of my projects are available at [See Projects](https://github.com/RHK-MICROVERSE)
-
-<!-- - 📝 I regularly write articles on [My Blogs](https://school.rhkstore.co.uk) -->
-
-- 📫 How to reach me **9rhktrading@gmail.com**
-
-- 📄 Know about my experiences [My Existence](https://www.linkedin.com/in/rassel-kadir-b3611929/)
-
-<!-- - ⚡ Fun fact **Laughter is the best Medicine** -->
 <br>
 <br>
 <h2 align="left">Languages and Tools:</h2>
@@ -49,14 +31,30 @@
 
 <br>
 <br>
+- 🔭 I’m currently working on [To Do List](https://github.com/RHK-MICROVERSE/To-Do-List/dist)
+
+- 🌱 I’m currently **A full Time Student in Microverse**
+
+- 👯 I’m looking to collaborate on [Web Development](https://rhk-microverse.github.io/book-awesome-module/)
+
+<!-- - 🤝 I’m looking for help with **To bridge Website and AI** -->
+
+- 👨‍💻 All of my projects are available at [See Projects](https://github.com/RHK-MICROVERSE)
+
+<!-- - 📝 I regularly write articles on [My Blogs](https://school.rhkstore.co.uk) -->
+
+- 📫 How to reach me **9rhktrading@gmail.com**
+
+- 📄 Know about my experiences [My Existence](https://www.linkedin.com/in/rassel-kadir-b3611929/)
+
+<!-- - ⚡ Fun fact **Laughter is the best Medicine** -->
+<br>
+<br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhk-microverse" alt="rhk-microverse" /></a> </p>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/RHK-MICROVERSE/count.svg" />
 </p>
-
-
-
 
 <!-- NOT USED -->
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rhk-microverse&show_icons=true&locale=en" alt="rhk-microverse" /></p>
