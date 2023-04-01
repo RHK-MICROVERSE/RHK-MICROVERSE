@@ -1,3 +1,4 @@
+![logo](./images/WELCOME!.png)
 <h1 align="left">Hi 👋, I'm Rassel Hassan Kadir&nbsp;&nbsp; <img src="https://media.giphy.com/media/wcC8VA7quA6G9pA8Iy/giphy.gif" width="100"></h1>
 <h3 align="center">A passionate Remote Full-Stack web developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="./images/Animated-Image.gif"
