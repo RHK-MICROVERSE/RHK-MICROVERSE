@@ -63,4 +63,7 @@
 <!-- NOT USED -->
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rhk-microverse&show_icons=true&locale=en" alt="rhk-microverse" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rhk-microverse&" alt="rhk-microverse" /></p> -->
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=rhk-microverse&label=Profile%20views&color=0e75b6&style=flat" alt="rhk-microverse" /> </p> -->
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=rhk-microverse&label=Profile%20views&color=0e75b6&style=flat" alt="rhk-microverse" /> </p>
+Please add the following line in line number 67 in between p and img src if any repo has a tropphy
+ <a href="https://github.com/rhk-microverse/github-profile-trophy">
+-->
