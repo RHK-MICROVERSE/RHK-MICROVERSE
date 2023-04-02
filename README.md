@@ -54,7 +54,7 @@
 <!-- - ⚡ Fun fact **Laughter is the best Medicine** -->
 <br>
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhk-microverse" alt="rhk-microverse" /></a> </p>
+<p align="center"> <a href="https://github.com/rhk-microverse/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhk-microverse" alt="rhk-microverse" /></a> </p>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/RHK-MICROVERSE/count.svg" />
