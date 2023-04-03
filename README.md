@@ -41,11 +41,12 @@
 
 - 👯 I’m looking to collaborate on [Web Development](https://rhk-microverse.github.io/book-awesome-module/)
 
-<!-- - 🤝 I’m looking for help with **To bridge Website and AI** -->
+- 🤝 I’m available for hire as a remote developer **To assit develeopment of Website**
 
 - 👨‍💻 All of my projects are available at [See Projects](https://github.com/RHK-MICROVERSE)
 
-<!-- - 📝 I regularly write articles on [My Blogs](https://school.rhkstore.co.uk) -->
+- 📝 I successfully implemented To-Do-List project [To-Do-List](https://rhk-microverse.github.io/To-Do-List/dist/)
+- [To-Do-List](https://rhk-microverse.github.io/To-Do-List/dist/) is an application to add and remove daily task once completed. Project has beed implemented  with HTML, CSS, JavaScript, and WebPack.
 
 - 📫 How to reach me **9rhktrading@gmail.com**
 
